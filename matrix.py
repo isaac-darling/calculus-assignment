@@ -23,7 +23,7 @@ class Matrix:
                         continue
                     break
 
-    #multiuse function for determinig validity of operations (ensuring their is a matrix with valid dimensions)
+    #multiuse function for determinig validity of operations (ensuring there is a matrix with valid dimensions)
     def match(self, other, rev = False):
         if not isinstance(other, Matrix):
             return False
