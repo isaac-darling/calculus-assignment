@@ -3,5 +3,5 @@ A project I completed for my high school multivariable calculus course, involvin
 
 ## Notes:
 
-(Circa May 2021)  
+(Circa December 2020 and May 2021)  
 ...
