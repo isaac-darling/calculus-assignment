@@ -47,7 +47,7 @@ class Matrix:
     def determinant(self, matrix = None):
         matrix = matrix or self
 
-        if not isinstance():
+        if not isinstance(matrix, Matrix):
             raise TypeError("the determinant is only computable for matrices")
 
         if matrix.r != matrix.c:
